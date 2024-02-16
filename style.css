@@ -76,10 +76,10 @@ transition: .3s;
 
 @keyframes changeBackground {
     0%, 100% {
-        background-image: url(/img/OIG4\ \(5\).jpg);
+        background-image: url(img/OIG4\ \(5\).jpg);
     }
     50% {
-        background-image: url(/img/22.jpg);
+        background-image: url(img/22.jpg);
     }
 }
 .title {
